@@ -1,0 +1,42 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.venv/
+venv/
+
+# 数据库（历史调度记录，含个人数据）
+dispatch_history.db
+
+# 调试日志
+debug_log.txt
+
+# 输出结果（图片/GIF/报告）
+results/
+
+# 数据文件（含测试订单）
+*.xlsx
+*.xls
+
+# 备份目录
+UAV_Bus_Agent copy/
+
+# IDE
+.vscode/
+.idea/
+
+# 操作系统
+Thumbs.db
+.DS_Store
+
+# 早期遗留的未使用文件（已无代码引用）
+explanation.py
+llm_report.py
+plot_convergence.py
+report_generator.py
+task_bid.py
+algorithm_compare.py
+
+# 调试测试文件
+test_*.py
