@@ -40,3 +40,6 @@ algorithm_compare.py
 
 # 调试测试文件
 test_*.py
+
+# Streamlit 本地配置（含端口等个人设置）
+.streamlit/

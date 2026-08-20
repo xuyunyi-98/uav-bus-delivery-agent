@@ -163,8 +163,6 @@ MODEL = "deepseek-chat"
 streamlit run app.py
 ```
 
-浏览器自动打开 http://localhost:8501
-
 ---
 ## 🎬 使用示例
 
