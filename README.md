@@ -79,7 +79,7 @@
 ## 🏗️ 系统架构图
 
 
-![系统架构图](architecture.png)
+![系统架构图](architecture2.png)
 
 ```
 用户自然语言指令
